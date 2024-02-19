@@ -1,0 +1,18 @@
+[
+    {
+        "Nombres": "jhan marco",
+        "Apellidos": "solano rincon",
+        "Direccion": "cll 68a 10e-11 piso 3",
+        "Telefono": "3142511864",
+        "Ruta": "ninguna",
+        "Documento":1007669180
+    },
+    {
+        "Nombres": "erika julieth",
+        "Apellidos": "ortiz parra",
+        "Direccion": "barrio sotomayor",
+        "Telefono": 3188430493,
+        "Ruta": "ninguna",
+        "Documento":1098820182
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "tipo": "pez"
+    },
+    {
+        "tipo": "perro",
+        "nPatas": 4,
+        "Raza": "labrador"
+    }
+]
